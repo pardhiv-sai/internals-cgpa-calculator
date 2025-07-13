@@ -1,0 +1,1076 @@
+{
+    "CSM": {
+        "1": {
+            "1": {
+                "Linear Algebra, Calculus and Differential Equations": 3.0,
+                "Chemistry for Engineers": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Programming for Problem Solving": 4.0,
+                "Chemistry Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.0,
+                "Programming for Problem Solving Lab": 1.5,
+                "Engineering Graphics": 2.0,
+                "Health and Wellness, Yoga and Sports": 0.5
+            },
+            "2": {
+                "Integral Calculus and Transforms": 3.0,
+                "Applied Physics": 3.0,
+                "Communicative English": 2.0,
+                "Digital Logic Design": 3.0,
+                "Python Programming": 2.0,
+                "Data Structures and Algorithms": 3.0,
+                "Applied Physics Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Python Programming Lab": 1.0,
+                "Data Structures and Algorithms Lab": 1.5,
+                "NSS / NCC / Community Service": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Probability and Statistics": 3.0,
+                "Universal Human Values": 2.0,
+                "Discrete Mathematical Structures": 3.0,
+                "Computer Organization": 3.0,
+                "Design and Analysis of Algorithms": 3.0,
+                "Object Oriented Programming": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design and Analysis of Algorithms Lab": 1.5,
+                "Object Oriented Programming Lab": 1.5,
+                "Environmental Science": 0.0
+            },
+            "2": {
+                "Computational Statistics": 3.0,
+                "Artificial Intelligence": 3.0,
+                "Database Management Systems": 3.0,
+                "Operating Systems": 3.0,
+                "Computer Networks": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Artificial Intelligence Lab": 1.5,
+                "Database Management Systems Lab": 1.5,
+                "Constitution of India": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Theory of Computation": 2.0,
+                "Software Engineering": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Job Oriented Elective-I": 3.0,
+                "Machine Learning": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Professional Elective-I Lab": 1.0,
+                "Machine Learning Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            },
+            "2": {
+                "Cryptography and Network Security": 3.0,
+                "Deep Learning": 3.0,
+                "Cloud Computing": 2.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Job Oriented Elective-II": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Tinkering Lab": 1.0,
+                "Deep Learning Lab": 1.0,
+                "Cryptography and Network Security Lab": 1.0
+            }
+        },
+        "4": {
+            "1": {
+                "Humanities Elective": 2.0,
+                "Natural Language Processing": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Natural Language Processing Lab": 1.0,
+                "Professional Elective-IV Lab": 1.0,
+                "Term Paper": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "Mechanical": {
+        "1": {
+            "1": {
+                "Matrices and Calculus": 3.0,
+                "Applied Chemistry": 3.0,
+                "Basic Civil and Mechanical Engineering": 3.0,
+                "Programming with C": 4.0,
+                "Communicative English": 2.0,
+                "Applied Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Programming with C Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            },
+            "2": {
+                "Differential Equations and Vector Calculus": 3.0,
+                "Engineering Physics": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Engineering Mechanics": 3.0,
+                "Engineering Drawing": 3.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.5,
+                "Python Programming Lab": 1.5,
+                "Engineering Workshop": 1.5,
+                "NSS / NCC / Community Service": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Material Science and Metallurgy": 3.0,
+                "Strength of Materials": 3.0,
+                "Manufacturing Process": 3.0,
+                "Basic Thermodynamics": 3.0,
+                "Kinematics of Machinery": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Machine Drawing with GD & T": 1.5,
+                "Modelling Lab": 1.0,
+                "Environmental Science": 0.0
+            },
+            "2": {
+                "Applications of PDE, Numerical Methods, Probability and Statistics": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Manufacturing Technology": 3.0,
+                "Applied Thermodynamics": 3.0,
+                "Fluid Mechanics and Hydraulic Machines": 3.0,
+                "Operations Management": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Manufacturing Process Lab": 1.0,
+                "Fluid Mechanics and Strength of Materials Lab": 1.5,
+                "Constitution of India": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Design of Machine Elements": 3.0,
+                "Machine Dynamics and Vibrations": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Tinkering Lab": 1.0,
+                "Thermal Engineering Lab": 1.0,
+                "Advanced Modelling Lab": 1.0
+            },
+            "2": {
+                "Design of Transmission Elements": 3.0,
+                "Operation Research": 3.0,
+                "Heat Transfer": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Open Elective-III": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Heat Transfer Lab": 1.0,
+                "Analysis Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            }
+        },
+        "4": {
+            "1": {
+                "Introduction to Industrial Management": 2.0,
+                "Metrology and Measurements": 3.0,
+                "Automation and CAM": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-IV": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Design and Metrology Lab": 1.0,
+                "CAM Lab": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "IT": {
+        "1": {
+            "1": {
+                "Linear Algebra, Calculus and Differential Equations": 3.0,
+                "Engineering Physics": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Programming for Problem Solving": 4.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.0,
+                "Programming for Problem Solving Lab": 1.5,
+                "Engineering Graphics": 2.0,
+                "NSS / NCC / Community Service": 0.5
+            },
+            "2": {
+                "Integral caliculus and Transforms": 3.0,
+                "Engineering Chemistry": 2.0,
+                "Communicative English": 2.0,
+                "Digital Logic Design": 3.0,
+                "Python Programming": 2.0,
+                "Data Structures": 4.0,
+                "Engineering Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Python Programming Lab": 1.0,
+                "Data Structures Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Probability and Statistics": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Discrete Mathematical Structures": 3.0,
+                "Computer Organization": 3.0,
+                "Design and Analysis of Algorithms": 3.0,
+                "Object Oriented Programming": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design and Analysis of Algorithms Lab": 1.5,
+                "Object Oriented Programming Lab": 1.5,
+                "Constitution of India": 0.0
+            },
+            "2": {
+                "Computational Statistics": 3.0,
+                "Artificial Intelligence": 3.0,
+                "Database Management Systems": 3.0,
+                "Operating Systems": 3.0,
+                "Computer Networks": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Artificial Intelligence Lab": 1.5,
+                "Database Management Systems Lab": 1.5,
+                "Environmental Science": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Automata Theory and Formal Languages": 3.0,
+                "Software Engineering": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Job Oriented Elective-I": 3.0,
+                "Web Technologies": 2.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Data Analysis Lab": 1.0,
+                "Web Technologies Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            },
+            "2": {
+                "Cryptography and Network Security": 3.0,
+                "Full Stack Technologies": 2.0,
+                "Machine Learning": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Job Oriented Elective-II": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Tinkering Lab": 1.0,
+                "Machine Learning Lab": 1.0,
+                "Full Stack Technologies Lab": 1.0
+            }
+        },
+        "4": {
+            "1": {
+                "Humanities Elective": 2.0,
+                "Compiler Design": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "IoT Lab": 1.0,
+                "Professional Elective-IV Lab": 1.0,
+                "Term Paper": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "EEE": {
+        "1": {
+            "1": {
+                "Linear Algebra and Calculus": 3.0,
+                "Chemistry for Engineers": 3.0,
+                "Basic Civil and Mechanical Engineering": 3.0,
+                "Programming with C": 4.0,
+                "Communicative English": 2.0,
+                "Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Programming with C Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            },
+            "2": {
+                "Differential Equations, Transforms and Vector Calculus": 3.0,
+                "Engineering Physics": 3.0,
+                "Programming With Python": 2.0,
+                "Electrical Circuits": 4.0,
+                "Engineering Physics Lab": 1.0,
+                "Programming With Python Lab": 1.5,
+                "Electrical Circuits Lab": 1.5,
+                "Engineering Workshop": 1.5,
+                "Engineering Graphics": 3.0,
+                "NSS / NCC/ Community Service": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Numerical Methods, Probability and Statistics": 3.0,
+                "Data Structures using Python": 3.0,
+                "Electrical Circuits Analysis": 3.0,
+                "Electronic Devices and Circuits": 3.0,
+                "DC Machines": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Data Structures using Python Lab": 1.0,
+                "DC Machines Lab": 1.0,
+                "Environmental Science": 0.0
+            },
+            "2": {
+                "Generation and Transmission of Electrical Power": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Electronic Circuits Analysis": 3.0,
+                "Electromagnetic Field Theory": 3.0,
+                "Digital Electronics": 3.0,
+                "AC Machines": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Electronics Lab": 1.0,
+                "AC Machines Lab": 1.0,
+                "Constitution of India": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Control Systems": 3.0,
+                "Synchronous and Special Machines": 2.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Tinkering Lab": 1.0,
+                "Control Systems Lab": 1.0,
+                "Synchronous and Special Machines Lab": 1.0
+            },
+            "2": {
+                "Linear IC's and Circuits": 3.0,
+                "Microprocessors and Microcontrollers": 3.0,
+                "Power Electronics": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Open Elective-III": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Microprocessors and Microcontrollers Lab": 1.0,
+                "Power Electronics Lab": 1.0,
+                "Electrical Measurements and Instrumentation": 2.0,
+                "Technical Paper Writing and IPR": 0.0
+            }
+        },
+        "4": {
+            "1": {
+                "Industrial Management": 2.0,
+                "Renewable Energy Resources": 3.0,
+                "Power Systems": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-IV": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Power Systems Lab": 1.0,
+                "Computer Simulation of Electrical Systems Lab": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "ECE": {
+        "1": {
+            "1": {
+                "Linear Algebra and Calculus": 3.0,
+                "Chemistry for Engineers": 3.0,
+                "Basic Civil and Mechanical Engineering": 3.0,
+                "Programming for Problem Solving": 4.0,
+                "Communicative English": 2.0,
+                "Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Programming for Problem Solving Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            },
+            "2": {
+                "Differential Equations, Transforms and Vector Calculus": 3.0,
+                "Engineering Physics": 3.0,
+                "Programming With Python": 2.0,
+                "Basic Electrical Circuits and Electronic Devices": 4.0,
+                "Engineering Physics Lab": 1.0,
+                "Programming With Python Lab": 1.5,
+                "Basic Electrical Circuits and Electronic Devices Lab": 1.5,
+                "Engineering Workshop": 1.5,
+                "Engineering Graphics": 3.0,
+                "NSS / NCC / Community Service": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Numerical Methods, Probability and Statistics": 3.0,
+                "Data Structures using Python": 3.0,
+                "Digital Electronics and Logic Design": 3.0,
+                "Signals and Systems": 3.0,
+                "Analog Circuits": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Data Structures using Python Lab": 1.0,
+                "Digital Electronics and Logic Design Lab": 1.5,
+                "Environmental Science": 0.0
+            },
+            "2": {
+                "Electronic Circuit Analysis": 2.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Digital Signal Processing": 3.0,
+                "Microcontrollers": 3.0,
+                "Analog Communication": 3.0,
+                "Electromagnetic Fields and Transmission Lines": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Analog Circuits Lab": 1.5,
+                "Digital Signal Processing Lab": 1.0,
+                "Constitution of India": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Digital Communication": 3.0,
+                "VLSI Design": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Tinkering Lab": 1.0,
+                "Analog and Digital Communication Lab": 1.5,
+                "Embedded Systems Lab": 1.0
+            },
+            "2": {
+                "Integrated Circuits and Applications": 3.0,
+                "HDL Programming": 3.0,
+                "Digital Image Processing": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Open Elective-III": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "IC Applications Lab": 1.5,
+                "HDL Programming Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            }
+        },
+        "4": {
+            "1": {
+                "Industrial Management and Entrepreneurship": 2.0,
+                "Microwave Engineering": 3.0,
+                "Antennas and Wave Propagation": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-IV": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Advanced Communication Lab": 1.0,
+                "Term Paper": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "IOT": {
+        "1": {
+            "1": {
+                "Linear Algebra, Calculus and Differential Equations": 3.0,
+                "Engineering Physics": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Programming for Problem Solving": 4.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.0,
+                "Programming for Problem Solving Lab": 1.5,
+                "Engineering Graphics": 2.0,
+                "NSS / NCC / Community Service": 0.5
+            },
+            "2": {
+                "Integral Calculus and Transforms": 3.0,
+                "Engineering Chemistry": 2.0,
+                "Communicative English": 2.0,
+                "Digital Logic Design": 3.0,
+                "Python Programming": 2.0,
+                "Data Structures": 4.0,
+                "Engineering Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Python Programming Lab": 1.0,
+                "Data Structures Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Probability and Statistics": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Discrete Mathematical Structures": 3.0,
+                "Computer Organization": 3.0,
+                "Design and Analysis of Algorithms": 3.0,
+                "Object Oriented Programming": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design and Analysis of Algorithms Lab": 1.5,
+                "Object Oriented Programming Lab": 1.5,
+                "Constitution of India": 0.0
+            },
+            "2": {
+                "Computational Satistics": 3.0,
+                "Fundamentals of IoT": 3.0,
+                "Database Management Systems": 3.0,
+                "Operating Systems": 3.0,
+                "Computer Networks": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Fundamentals of IoT Lab": 1.5,
+                "Database Management Systems Lab": 1.5,
+                "Environmental Science": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Theory of Computation": 2.0,
+                "Software Engineering": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Job Oriented Elective-I": 3.0,
+                "Artificial Intelligence": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Professional Elective-I Lab": 1.0,
+                "Artificial Intelligence Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            },
+            "2": {
+                "Data Analysis": 2.0,
+                "IoT Architecture and Protocols": 3.0,
+                "Machine Learning": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Job Oriented Elective-II": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Tinkering Lab": 1.0,
+                "IoT Architecture and Protocol Lab": 1.0,
+                "Machine Learning Lab": 1.0
+            }
+        },
+        "4": {
+            "1": {
+                "Humanities Elective": 2.0,
+                "Natural Language Processing": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Natural Language Processing Lab": 1.0,
+                "Professional Elective-IV Lab": 1.0,
+                "Term Paper": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "Civil": {
+        "1": {
+            "1": {
+                "Matrices and Calculus": 3.0,
+                "Applied Chemistry": 3.0,
+                "Basic Civil and Mechanical Engineering": 3.0,
+                "Programming with C": 4.0,
+                "Communicative English": 2.0,
+                "Applied Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Programming with C Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            },
+            "2": {
+                "Differential Equations and Vector Calculus": 3.0,
+                "Physics for Engineers": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Mechanics for Engineers": 3.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.5,
+                "Computer Aided Building Drawing": 1.5,
+                "Engineering Workshop": 1.5,
+                "Engineering Drawing Practice": 3.0,
+                "NSS / NCC / Community Service": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Numerical Methods, Probability and Statistics": 3.0,
+                "Engineering Geology and GIS": 2.0,
+                "Water Supply Engineering": 3.0,
+                "Fluid Mechanics": 3.0,
+                "Solid Mechanics-I": 3.0,
+                "Building Materials and Building Construction": 2.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Engineering Geology and GIS Lab": 1.0,
+                "Material Testing Lab": 1.0,
+                "Environmental Science": 0.0
+            },
+            "2": {
+                "Wastewater Engineering": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Hydraulics and Hydraulic Machines": 3.0,
+                "Surveying": 3.0,
+                "Solid Mechanics-II": 3.0,
+                "Concrete Technology": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Fluid Mechanics Lab": 1.0,
+                "Surveying Field Work": 1.0,
+                "Constitution of India": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Design of Reinforced Concrete Structural Elements": 3.0,
+                "Structural Analysis": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Tinkering Lab": 1.0,
+                "Environmental Engineering Lab": 1.0,
+                "Computer Aided Analysis and Design Lab": 1.0
+            },
+            "2": {
+                "Design of Steel Structural Elements": 3.0,
+                "Geotechnical Engineering": 3.0,
+                "Hydrology and Irrigation Engineering": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Open Elective-III": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Geotechnical Engineering Lab": 1.0,
+                "Concrete Technology Lab": 1.0,
+                "Computer Applications Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            }
+        },
+        "4": {
+            "1": {
+                "Construction Management": 2.0,
+                "Highway Engineering": 3.0,
+                "Estimation and Costing": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-IV": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Transportation Engineering Lab": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "CSE": {
+        "1": {
+            "1": {
+                "Linear Algebra, Calculus and Differential Equations": 3.0,
+                "Engineering Physics": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Programming for Problem Solving": 4.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.0,
+                "Programming for Problem Solving Lab": 1.5,
+                "Engineering Graphics": 2.0,
+                "NSS / NCC / Community Service": 0.5
+            },
+            "2": {
+                "Integral Caliculus and Transforms": 3.0,
+                "Engineering Chemistry": 2.0,
+                "Communicative English": 2.0,
+                "Digital Logic Design": 3.0,
+                "Python Programming": 2.0,
+                "Data Structures": 4.0,
+                "Engineering Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Python Programming Lab": 1.0,
+                "Data Structures Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Probability and Statistics": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Discrete Mathematical Structures": 3.0,
+                "Computer Organization": 3.0,
+                "Design and Analysis of Algorithms": 3.0,
+                "Object Oriented Programming": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design and Analysis of Algorithms Lab": 1.5,
+                "Object Oriented Programming Lab": 1.5,
+                "Constitution of India": 0.0
+            },
+            "2": {
+                "Computational Statistics": 3.0,
+                "Artificial Intelligence": 3.0,
+                "Database Management Systems": 3.0,
+                "Operating Systems": 3.0,
+                "Computer Networks": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Artificial Intelligence Lab": 1.5,
+                "Database Management Systems Lab": 1.5,
+                "Environmental Science": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Automata Theory and Formal Languages": 3.0,
+                "Software Engineering": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Job Oriented Elective-I": 3.0,
+                "Web Technologies": 2.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Data Analysis Lab": 1.0,
+                "Web Technologies Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            },
+            "2": {
+                "Cryptography and Network Security": 3.0,
+                "Machine Learning": 3.0,
+                "Full Stack Technologies": 2.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Job Oriented Elective-II": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Tinkering Lab": 1.0,
+                "Full Stack Technologies Lab": 1.0,
+                "Machine Learning Lab": 1.0
+            }
+        },
+        "4": {
+            "1": {
+                "Humanities Elective": 2.0,
+                "Compiler Design": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Professional Elective-IV Lab": 1.0,
+                "Program Specific Lab": 1.0,
+                "Term Paper": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "CSD": {
+        "1": {
+            "1": {
+                "Linear Algebra, Calculus and Differential Equations": 3.0,
+                "Engineering Physics": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Programming for Problem Solving": 4.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.0,
+                "Programming for Problem Solving Lab": 1.5,
+                "Engineering Graphics": 2.0,
+                "NSS / NCC / Community Service": 0.5
+            },
+            "2": {
+                "Integral Caliculus and Transforms": 3.0,
+                "Engineering Chemistry": 2.0,
+                "Communicative English": 2.0,
+                "Digital Logic Design": 3.0,
+                "Python for Data Science": 2.0,
+                "Data Structures": 4.0,
+                "Engineering Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Python for Data Science Lab": 1.0,
+                "Data Structures Lab": 1.5,
+                "Health and wellness, Yoga and Sports": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Probability and Statistics": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Discrete Mathematical Structures": 3.0,
+                "Computer Organization": 3.0,
+                "Data Visualization": 3.0,
+                "Object Oriented Programming": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Business Communication and Value Science Lab": 1.5,
+                "Object Oriented Programming Lab": 1.5,
+                "Constitution of India": 0.0
+            },
+            "2": {
+                "Design and Analysis of Algorithms": 3.0,
+                "Artificial Intelligence": 3.0,
+                "Database Management Systems": 3.0,
+                "Operating Systems": 3.0,
+                "Computer Networks": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Operating Systems and Software Engineering Lab": 1.5,
+                "Database Management Systems Lab": 1.5,
+                "Environmental Science": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Automata and Compiler Design": 3.0,
+                "Software Engineering": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Job Oriented Elective-I": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Professional Elective-I Lab": 1.5,
+                "Open Elective-I Lab": 1.5,
+                "Technical Paper Writing and IPR": 0.0
+            },
+            "2": {
+                "Operations Research": 3.0,
+                "Deep Learning": 3.0,
+                "Network Security": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Job Oriented Elective-II": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Tinkering Lab": 1.0,
+                "Deep Learning Lab": 1.0,
+                "Professional Elective-III Lab": 1.0
+            }
+        },
+        "4": {
+            "1": {
+                "Humanities Elective": 2.0,
+                "Natural Language Processing": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Natural Language Processing Lab": 1.0,
+                "Professional Elective-IV Lab": 1.0,
+                "Term Paper": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "CSBS": {
+        "1": {
+            "1": {
+                "Discrete Mathematics": 3.0,
+                "Fundamentals of Physics": 3.0,
+                "Principles of Electrical Engineering": 3.0,
+                "Fundamentals of Computer Science": 3.0,
+                "Introductory Topics in Statistics, Probability and Calculus": 2.0,
+                "Fundamentals of Physics Lab": 1.0,
+                "Principles of Electrical Engineering Lab": 1.0,
+                "Fundamentals of Computer Science Lab": 1.5,
+                "Business Communication and Value Science-I Lab": 1.0,
+                "NSS / NCC / Community Service": 0.5
+            },
+            "2": {
+                "Linear Algebra": 3.0,
+                "Statistical Methods": 3.0,
+                "Fundamentals of Economics": 2.0,
+                "Principles of Electronics Engineering": 3.0,
+                "Python Programming": 2.0,
+                "Data Structures and Algorithms": 3.0,
+                "Statistical Methods Lab": 1.0,
+                "Business Communication and Value Science-II Lab": 1.0,
+                "Python Programming Lab": 1.0,
+                "Data Structures and Algorithms Lab": 1.5,
+                "Health and wellness, Yoga and Sports": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Computational Statistics": 3.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Computer Organization and Architecture": 3.0,
+                "Formal Languages and Automata Theory": 3.0,
+                "Design and Analysis of Algorithms": 3.0,
+                "Object Oriented Programming": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Computational Statistics Lab": 1.0,
+                "Object Oriented Programming Lab": 1.0,
+                "Business Communication and Value Science-III Lab": 1.0,
+                "Constitution of India": 0.0
+            },
+            "2": {
+                "Operations Research": 2.0,
+                "Artificial Intelligence": 3.0,
+                "Database Management Systems": 3.0,
+                "Operating Systems": 3.0,
+                "Computer Networks": 3.0,
+                "Introduction to Innovation, IP Management and Entrepreneurship": 2.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Operating Systems and Software Engineering Lab": 1.0,
+                "Database Management Systems Lab": 1.0,
+                "Environmental Science": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Fundamentals of Management": 2.0,
+                "Software Engineering": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Job Oriented Elective-I": 3.0,
+                "Compiler Design": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Professional Elective-I Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            },
+            "2": {
+                "Information and Network Security": 2.0,
+                "Deep Learning": 3.0,
+                "Financial and Cost Accounting": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Job Oriented Elective-II": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Tinkering Lab": 1.0,
+                "Deep Learning Lab": 1.5,
+                "Professional Elective-III Lab": 1.5,
+                "Marketing Research & Marketing Management": 0.0
+            }
+        },
+        "4": {
+            "1": {
+                "Financial and Human Resource Management": 2.0,
+                "Natural Language Processing": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Natural Language Processing Lab": 1.0,
+                "Professional Elective-IV Lab": 1.0,
+                "Term Paper": 1.0,
+                "Business Strategy": 0.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    },
+    "CH": {
+        "1": {
+            "1": {
+                "Matrices and Calculus": 3.0,
+                "Physical Chemistry": 3.0,
+                "Basic Civil and Mechanical Engineering": 3.0,
+                "Programming with C": 4.0,
+                "Communicative English": 2.0,
+                "Engineering Chemistry Lab": 1.0,
+                "Communicative English Lab": 1.0,
+                "Programming with C Lab": 1.5,
+                "Health and Wellness, Yoga and Sports": 0.5
+            },
+            "2": {
+                "Differential Equations and Vector Calculus": 3.0,
+                "Physics of Engineering Materials": 3.0,
+                "Basic Electrical and Electronics Engineering": 3.0,
+                "Fluid and Particle Mechanics": 3.0,
+                "Engineering Physics Lab": 1.0,
+                "Basic Electrical and Electronics Engineering Lab": 1.5,
+                "Fluid and Particle Mechanics Lab": 1.5,
+                "Engineering Workshop": 1.5,
+                "Engineering Graphics": 3.0,
+                "NSS / NCC / Community Service": 0.5
+            }
+        },
+        "2": {
+            "1": {
+                "Transforms, Probability and Statistics": 3.0,
+                "Organic Chemistry": 3.0,
+                "Chemical Engineering Thermodynamics-I": 3.0,
+                "Chemical Process Calculations": 3.0,
+                "Mechanical Operations": 3.0,
+                "Skill Enhancement Course-1": 2.0,
+                "Design Thinking and Innovation": 2.0,
+                "Organic Chemistry Lab": 1.0,
+                "Mechanical Operations Lab": 1.0,
+                "Environmental Science": 0.0
+            },
+            "2": {
+                "Process Economics and Industrial Management": 2.0,
+                "Universal Human Values - Understanding Harmony": 2.0,
+                "Chemical Engineering Thermodynamics-II": 3.0,
+                "Process Heat Transfer": 3.0,
+                "Chemical Technology": 3.0,
+                "Chemical Reaction Engineering-I": 3.0,
+                "Skill Enhancement Course-2": 2.0,
+                "Process Heat Transfer Lab": 1.0,
+                "Computational Programming Lab": 2.0,
+                "Chemical Technology Lab": 1.0,
+                "Constitution of India": 0.0
+            }
+        },
+        "3": {
+            "1": {
+                "Mass Transfer Operations-I": 3.0,
+                "Chemical Reaction Engineering-II": 3.0,
+                "Professional Elective-I": 3.0,
+                "Open Elective-I": 3.0,
+                "Open Elective-II": 3.0,
+                "Skill Enhancement Course-3": 2.0,
+                "Summer Internship-1": 1.0,
+                "Tinkering Lab": 1.0,
+                "Mass Transfer Operations-I Lab": 1.0,
+                "Chemical Reaction Engineering Lab": 1.0
+            },
+            "2": {
+                "Mass Transfer Operations-II": 3.0,
+                "Instrumentation and Process Control": 3.0,
+                "Industrial Pollution Control": 3.0,
+                "Professional Elective-II": 3.0,
+                "Professional Elective-III": 3.0,
+                "Open Elective-III": 3.0,
+                "Skill Enhancement Course-4": 2.0,
+                "Mass Transfer Operations-II Lab": 1.0,
+                "Instrumentation and Process Control Lab": 1.0,
+                "Industrial Pollution Control Lab": 1.0,
+                "Technical Paper Writing and IPR": 0.0
+            }
+        },
+        "4": {
+            "1": {
+                "Human Resources and Organizational Behaviour": 2.0,
+                "Transport Phenomena": 3.0,
+                "Chemical Process and Equipment Design": 3.0,
+                "Professional Elective-IV": 3.0,
+                "Professional Elective-V (MOOCs)": 2.0,
+                "Open Elective-IV": 3.0,
+                "Skill Enhancement Course-5": 2.0,
+                "Summer Internship-2": 2.0,
+                "Computer Aided Process Equipment Design Lab": 1.0
+            },
+            "2": {
+                "Internship and Project": 12.0
+            }
+        }
+    }
+}
