@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        *{
+            margin:0px;
+            padding:0px;
+        }
+
+        header{
+            width:100vw;
+            background-color:rgb(233, 226, 226);
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:40px;
+        }
+
+        header p{
+            font-weight:550;
+        }
+
+        body{
+            display:flex;
+            flex-direction:column;
+            min-height:100vh;      
+        }
+
+        #container{
+            flex:1;
+            display:flex;
+            flex-direction:column;
+            padding-top:20px;
+            justify-content:center;
+            align-items:center;
+            background-color:white;
+        }
+
+        #panel,#panel3,#selector{
+            background-color:rgb(233, 226, 226);
+            padding:20px;
+            width:280px;
+            border-radius:0.5rem;
+            align-items:center;
+        }
+
+        .sub-select{
+            display:flex;
+            justify-content:space-between;
+        }
+
+        .item{
+            display:flex;
+            flex-direction:column;
+            padding:10px;
+        }
+
+        .panel-label,.marks span{
+            font-weight:bold;
+            padding:8px;
+        }
+
+        select{
+            border-radius:0.5rem;
+            border:0px;
+            outline:none;
+            padding:4px;
+            text-align:center;
+            background-color:white;
+        }
+
+        button{
+            padding:8px;
+            width:100px;
+            background-color:black;
+            color:white;
+            border:10px;
+            border-radius:0.5rem;
+        }
+
+        #submit,#submit2,#cgpa-btn-div,#internals-calc{
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            margin-top:10px;
+        }
+
+
+        .subject,.marks{
+            background-color:rgb(233, 226, 226);
+            padding:8px;
+            margin:15px;
+            border-radius:0.5rem;
+        }
+
+        #panel2{
+            padding-bottom:20px;
+        }
+
+        #panel2 select{
+            width:200px;
+            background-color:white;
+        }
+
+        #panel2 label{
+            margin-top:3px;
+
+        }
+
+        #panel3-sgpa,#panel3-cgpa{
+            display:flex;
+            justify-content:space-between;
+            
+        }
+
+        #panel3-sgpa p,#panel3-cgpa p{
+            margin-right:80px;
+        }
+
+        
+        #cgpa{
+            display:flex;
+            justify-content:space-between;
+        }
+        input{
+            border-radius:0.2rem;
+            border:1px solid black; 
+            text-align:center;
+            width:130px;
+            margin-right:20px;
+        }
+
+        .hidden{
+            display:none;
+        }
+
+        #selector-internals,#selector-cgpa{
+            width:250px;
+            margin:7px;
+        }
+        
+        .marks{
+            display:flex;
+            flex-direction:column;
+            margin:10px;
+            
+        }
+
+        
+        .row{
+            display:flex;
+            overflow:hidden;
+            padding-left:12px;
+        }
+        
+        #attendance{
+            margin-left:20px;
+        }
+
+        #attendance label{
+            display:block;
+            margin-bottom:8px;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <p>Welcome!!</p>
+    </header>
+
+    <div id="container">
+        <div class="" id="selector">
+            <button id="selector-internals">Internal Marks Calculator</button>
+            <button id="selector-cgpa">CGPA Calculator</button>
+        </div>
+
+        <div class="hidden" id="internals">
+            <div class="row">
+                <div class="marks">
+                <span>Sessional 1:</span>
+                <input id="s1">
+            </div>
+            <div class="marks">
+                <span>Sessional 2:</span>
+                <input id="s2">
+            </div>
+            </div>
+            <div class="row">
+                <div class="marks">
+                <span>Quiz 1:</span>
+                <input id="q1">
+            </div>
+            <div class="marks">
+                <span>Quiz 2:</span>
+                <input id="q2">
+            </div>
+            </div>
+            <div class="row">
+                <div class="marks">
+                    <span>Assignment 1:</span>
+                    <input id="a1">
+                </div>
+                <div class="marks">
+                    <span>Assignment 2:</span>
+                    <input id="a2">
+                </div>
+            </div>
+            <div id="attendance" class="marks">
+                <strong><label for="att-per">Attendance:</label></strong>
+                <select id="att-per">
+                    <option value="5">&gt=90.00%</option>
+                    <option value="4">&gt=85.00%</option>
+                    <option value="3">&gt=80.00%</option>
+                    <option value="2">&gt=75.00%</option>
+                    <option value="0">&lt=75.00%</option>
+                </select>
+            </div>
+            <div id="internals-calc">
+                <button id="internals-calc-btn">Calculate</button>
+            </div>
+        </div>
+
+        <div class="hidden" id="panel">
+            <div class="item" id="year">
+                <label class="panel-label" for="year-opt">Select Year</label>
+                <select id="year-opt" required>
+                    <option disabled selected>select year</option>
+                    <option selected value="1">1st year</option>
+                    <option value="2">2nd year</option>
+                    <option value="3">3rd year</option>
+                    <option value="4">4th year</option>
+                </select>
+            </div>
+            <div class="item" id="sem">
+                <label class="panel-label" for="sem-opt">Select Sem</label>
+                <select id="sem-opt" required>
+                    <option disabled >select sem</option>
+                    <option selected value="1">1st sem</option>
+                    <option value=2>2nd sem</option>
+                </select>
+            </div>
+            <div class="item" id="branch">
+                <label class="panel-label">Select Branch</label>
+                <select id="branch-opt">
+                    <option selected disabled id="def-branch">Select branch</option>
+                </select>
+            </div>
+            <div id="submit">
+                <button id="submit-btn">Next</button>
+            </div>
+    </div>
+    
+    <div id="panel2"></div>
+
+    <div class="hidden" id="panel3">
+        <div id="panel3-sgpa"></div>
+        <div id="cgpa">
+            <label>Previous CGPA:</label>
+            <input id="cgpa-input">
+        </div>
+        <div id="panel3-cgpa"></div>
+        <div id="cgpa-btn-div">
+            <button id="cgpa-calculate">Calculate</button>
+        </div>
+    </div>
+
+    <footer>
+        <span>Built by</span>
+        <a href="https://instagram.com/pardhivsai_21">@pardhivsai_21</a>
+    </footer>
+    </div>
+
+    <script>
+        document.querySelectorAll("input").forEach((inp)=>{
+            inp.setAttribute("type","number");
+            inp.setAttribute("step","any");
+            inp.setAttribute("min","0");
+        })
+
+        document.getElementById("selector-internals").addEventListener("click",()=>{
+            document.getElementById("selector").classList.add("hidden");
+            document.getElementById("internals").classList.remove("hidden");
+            document.title="Internals Calculator";
+            document.querySelector("header p").innerText="Internal Marks Calculator";
+        })
+
+        document.getElementById("selector-cgpa").addEventListener("click",()=>{
+            document.getElementById("selector").classList.add("hidden");
+            document.getElementById("panel").classList.remove("hidden");
+            document.title="CGPA Calculator";
+            document.querySelector("header p").innerText="CGPA Calculator";
+        })
+
+        fetch('credits.json')
+        .then(res=>res.json())
+        .then(data=>{
+            Object.keys(data).forEach((branch)=>{
+                new_opt=document.createElement("option");
+                new_opt.value=branch;
+                new_opt.innerText=branch;
+                document.getElementById("branch-opt").appendChild(new_opt);
+            })
+        })
+
+        document.getElementById("branch-opt").value=document.getElementById("branch-opt")[1]
+
+
+        let year=document.getElementById("year-opt");
+        let sem=document.getElementById("sem-opt");
+        let branch=document.getElementById("branch-opt");
+
+        document.getElementById("submit").addEventListener("click",()=>{
+            if(year.selectedIndex===0 ||sem.selectedIndex===0 ||branch.selectedIndex===0){
+                alert("please select all");
+            }else{
+                document.getElementById("panel").classList.add("hidden");
+
+                fetch("credits.json")
+                .then(res=>res.json())
+                .then(res=>{
+                    let subjects = res[branch.value][year.value][sem.value];      
+                    let sub=1;
+
+                    Object.entries(subjects).forEach(([subject,credit])=>{
+                        panel2=document.getElementById("panel2");
+
+                        new_div=document.createElement("div");
+                        new_div.className="subject";
+                        new_div.id=`sub-${sub}`;
+                        new_div.innerHTML=`
+                            <strong><p>${subject}</p></strong>
+                            <div class="sub-select">
+                                <label for="sub-${sub}-select">Select Grade:</label>
+                                <select id="sub-${sub}-select">
+                                    <option value="10">A+</option>
+                                    <option value="9">A</option>
+                                    <option value="8">B</option>
+                                    <option value="7">C</option>
+                                    <option value="6">D</option>
+                                    <option value="5">E</option>
+                                    <option value="4">F</option>
+                                </select>
+                            </div>
+                            `
+                        document.getElementById("panel2").appendChild(new_div);
+                        sub+=1;
+                    })
+                    
+                    submit_btn=document.createElement("div");
+                    submit_btn.id="submit2";
+                    document.getElementById("panel2").appendChild(submit_btn);
+
+                    calculate_btn=document.createElement("button");
+                    calculate_btn.id="calculate";
+                    calculate_btn.innerText="Calculate";
+                    document.getElementById("submit2").appendChild(calculate_btn);
+                    
+                    document.getElementById("calculate").addEventListener("click",()=>{
+                        let credits_total=0;
+                        let subxcredit=0;
+                        let sub_count=1;
+                        document.querySelectorAll(".subject").forEach((sub)=>{
+                            credit=parseFloat(res[branch.value][year.value][sem.value][sub.querySelector("p").innerText]);
+                            credits_total+=credit;
+                            grade=parseFloat(document.getElementById(`sub-${sub_count}-select`).value);
+                            subxcredit+=grade*credit;
+                            sub_count+=1;
+                        })
+
+                        let sgpa=subxcredit/credits_total;
+                        sgpa=sgpa.toFixed(2);
+
+                        document.getElementById("calculate").style.width="200px";
+                        document.getElementById("calculate").innerText=`SGPA = ${sgpa}`;
+
+                        document.getElementById("panel2").classList.add("hidden");
+                        document.getElementById("panel3").classList.remove("hidden");
+
+                        document.getElementById("panel3-sgpa").innerHTML=`
+                            <span>SGPA:</span>
+                            <strong><p>${sgpa}</p></strong>
+                            `
+                        if(year.value==1&&sem.value==1){
+                            document.getElementById("cgpa").classList.add("hidden");
+                            document.getElementById("cgpa-calculate").classList.add("hidden");
+                            document.getElementById("panel3-cgpa").innerHTML=`
+                                <span>CGPA:</span>
+                                <strong><p>${sgpa}</p></strong>
+                            `;
+                        }
+                        else{
+                            document.getElementById("cgpa-calculate").addEventListener("click",()=>{
+                            let prev_credits=0;
+                            let prev_cgpa=parseFloat(document.getElementById("cgpa-input").value);
+                            
+                            for(y=1;y<=year.value;y++){
+                                let sems=2;
+                                if(y==year.value){
+                                    sems=sem.value-1;
+                                }
+
+                                while(sems){
+                                    let subjects=res[branch.value][y.toString()][sems];
+                                    for(let sub in subjects){
+                                        prev_credits+=parseFloat(subjects[sub]);
+                                    }
+                                    sems--;
+                                }
+
+                            }
+                            console.log(prev_cgpa,prev_credits);
+                            let curr_cgpa=(prev_cgpa*prev_credits+sgpa*credits_total)/(prev_credits+credits_total);
+
+
+                            document.getElementById("panel3-cgpa").innerHTML=`
+                                <span>CGPA:</span>
+                                <strong><p>${curr_cgpa.toFixed(2)}</p></strong>
+                            `;
+                        })
+                        }
+                })
+
+                })
+            }
+        })
+
+        document.getElementById("internals-calc-btn").addEventListener("click",function(){
+            let s1=parseFloat(document.getElementById("s1").value||0);
+            let s2=parseFloat(document.getElementById("s2").value||0);
+            let q1=parseFloat(document.getElementById("q1").value||0);
+            let q2=parseFloat(document.getElementById("q2").value||0);
+            let a1=parseFloat(document.getElementById("a1").value||0);
+            let a2=parseFloat(document.getElementById("a2").value||0);
+            let att_marks=parseFloat(document.getElementById("att-per").value);
+            let s18=0;
+            if(s1>s2){
+                s18=0.8*s1+0.2*s2;
+            }
+            else{
+                s18=0.8*s2+0.2*s1;
+            }
+            let aq=(a1+a2+q1+q2)*(7/48);
+            let total=s18+aq+att_marks;
+            total=total.toFixed(2);
+
+            document.getElementById("internals").classList.add("hidden");
+            document.getElementById("panel3").classList.remove("hidden");
+            document.getElementById("panel3").innerHTML=`Internal Marks = ${total}`
+
+        })
+    </script>
+</body>
+</html>
