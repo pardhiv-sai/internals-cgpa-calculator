@@ -183,8 +183,8 @@
 
     <div id="container">
         <div class="" id="selector">
-            <button id="selector-internals">Internal Marks Calculator</button>
-            <button id="selector-cgpa">CGPA Calculator</button>
+            <button onclick="gtag('event','button_click',{'event_category':'engagement','event_label':'Internal Marks Calculator'})" id="selector-internals">Internal Marks Calculator</button>
+            <button onclick="gtag('event','button_click',{'event_category':'engagement','event_label':'CGPA Calculator'})" id="selector-cgpa">CGPA Calculator</button>
         </div>
 
         <div class="hidden" id="internals">
@@ -229,7 +229,7 @@
                 </select>
             </div>
             <div id="internals-calc">
-                <button id="internals-calc-btn">Calculate</button>
+                <button onclick="gtag('event','button_click',{'event_category':'engagement','event_label':'internals result Calculator'})" id="internals-calc-btn">Calculate</button>
             </div>
         </div>
 
@@ -259,7 +259,7 @@
                 </select>
             </div>
             <div id="submit">
-                <button id="submit-btn">Next</button>
+                <button onclick="gtag('event','button_click',{'event_category':'engagement','event_label':'sgpa submit'})" id="submit-btn">Next</button>
             </div>
     </div>
     
@@ -273,7 +273,7 @@
         </div>
         <div id="panel3-cgpa"></div>
         <div id="cgpa-btn-div">
-            <button id="cgpa-calculate">Calculate</button>
+            <button onclick="gtag('event','button_click',{'event_category':'engagement','event_label':'cgpa calculate'})" id="cgpa-calculate">Calculate</button>
         </div>
     </div>
 
@@ -437,7 +437,7 @@
             }
         })
 
-        document.getElementById("internals-calc-btn").addEventListener("click",function(){
+        document.getElementById("internals-calc-btn").addEventListener("click",()=>{
             let s1=parseFloat(document.getElementById("s1").value||0);
             let s2=parseFloat(document.getElementById("s2").value||0);
             let q1=parseFloat(document.getElementById("q1").value||0);
